@@ -1,16 +1,11 @@
 # React-Admin-Dashboard
 
 # About the project
-In this simple admin app, here charts
 
-# Things to do
-- Create a component called TodoHeader. 
-- Render Todo List header in h1 tag.
-- Click on a to-do element in the list to make it visible with a strikethrough.
-- Add delete functionality with a "Delete" button that will appear next to each element in the list.
-# Tips
-You can add the delete functionality with a function to be given to the onClick event by adding the "Delete" button next to the content in the TodoItem component.
-For delete functionality, you can filter on "todos" in state with filter function and update state that way.
+This project is about admin dashboard. The page has a staff list and a chart showing the number of employees by month. There is also a product list graphic.
+It is possible to delete and correct from the list on both the personnel and product pages.
+
+
 
 # Getting Started
 - Open new terminal from your Code Editor,
@@ -18,18 +13,14 @@ For delete functionality, you can filter on "todos" in state with filter functio
 ```
 npm install
 ```
--After installation of npm check ot your package.json folder and in dependency that 
-must have 
- 
- ```   "@reduxjs/toolkit": "^1.8.0",```
- ```   "react": "^17.0.2",```
- ```  "react-dom": "^17.0.2",```
- ```  "react-dom": "^17.0.2",```
-```  "react-redux": "^7.2.6",```
- ```   "react-scripts": "5.0.0",```
- ```  "redux": "^4.1.2",```
-  ```  "redux-logger": "^3.0.6",```
-  
+
+# View of the Project  
+
+
+
+https://user-images.githubusercontent.com/93815030/159576573-7b27056c-aff8-409e-9328-eaef6432dfd7.mp4
+
+
 
 # Technologies That Used
 |:point_down: Using Technologies|
